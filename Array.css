@@ -1,0 +1,28 @@
+#body{
+display: flex;
+justify-content:space-between; 
+}
+.btn{
+    width: 50px;
+    border: double;
+    border-radius: 23px;
+    font-size: 10px;
+    background-color: grey;
+    cursor: pointer;
+}
+.btn2{
+    width: 50px;
+    border: double;
+    border-radius: 23px;
+    font-size: 10px;
+    background-color: grey;
+    cursor: pointer;
+}
+.btn3{
+    width: 50px;
+    border: double;
+    border-radius: 23px;
+    font-size: 10px;
+    background-color: grey;
+    cursor: pointer;
+}
